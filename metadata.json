@@ -1,0 +1,6 @@
+{
+  "name": "Prisma",
+  "description": "A highly polished, dark cinematic landing page for Prisma creative studio, designed with motion animations and a warm cream palette.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
